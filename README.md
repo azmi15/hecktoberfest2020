@@ -1,3 +1,3 @@
-# hecktoberfest2020
+# hacktoberfest2020
 
 Muhammad Kuswari
